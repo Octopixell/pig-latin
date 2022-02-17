@@ -73,6 +73,6 @@ Want to only convert specific words?
 ```js
 import { processWord } from './index';
 
-const egg = processSentences('egg'); // eggyay
-const pig = processSentences('pig'); // igpay
+const egg = processWord('egg'); // eggyay
+const pig = processWord('pig'); // igpay
 ```
