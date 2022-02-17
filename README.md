@@ -46,3 +46,18 @@ Becomes
 
 `Ayay eetray osewhay elementsyay avehay atyay ostmay otway ildrenchay isyay alledcay ayay INARYBAY EETRAY`  
 ```
+
+### How to use it?
+
+Simply import `processSentences()` from `index.js` and feed it your sentences like so:
+
+```js
+import { processSentences } from './index';
+
+const sentences = [
+  'Do you speak Pig Latin',
+  'A tree whose elements have at most two children is called a BINARY TREE'
+];
+
+const pigLatinSentences = processSentences(sentences);
+```
