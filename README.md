@@ -1,5 +1,8 @@
 # Pig Latin
 
+[![codecov](https://codecov.io/gh/Octopixell/pig-latin/branch/main/graph/badge.svg?token=KM5DKPNZEE)](https://codecov.io/gh/Octopixell/pig-latin)
+
+
 [Pig Latin (Wikipedia)](https://en.wikipedia.org/wiki/Pig_Latin) is a language game played by children that alters words by rearranging them into a coded language.
 
 ## The rules of the game are as follows:
